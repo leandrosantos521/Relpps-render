@@ -1,0 +1,7 @@
+RELPPS — RENDER
+Build: npm install
+Start: npm start
+Depois da URL do Render, ajuste PUBLIC_SITE_URL e BLING_REDIRECT_URI e cadastre a mesma URL no Bling.
+Webhook InfinitePay: https://SEU-SITE.onrender.com/api/checkout?action=infinitepay-webhook
+Health: https://SEU-SITE.onrender.com/api/health
+Não envie .env, tokens ou secrets ao GitHub.
